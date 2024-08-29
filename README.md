@@ -1,2 +1,2 @@
 # hello_world
-for practicing the git hub
+for learning how to make commits
